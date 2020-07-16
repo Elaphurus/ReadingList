@@ -25,6 +25,7 @@
 
 ## 理工
 
+- :+1: 服务器究竟为谁服务？Richard Stallman，2020年7月
 - Lisp: Good News, Bad News, How to Win Big，Richard P. Gabriel，2020年6月
 - :+1: 编译器设计，Keith Cooper，Linda Torczon，2020年3月
 
