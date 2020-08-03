@@ -15,6 +15,7 @@
 
 ## 人文社科艺术
 
+- 这个世界会好吗—梁漱溟晚年口述，艾恺，2020年7月
 - 生命因你而火热，彭磊，庞宽，2020年4月
 - 北海怪兽，彭磊，2020年4月
 - :+1: 像春天一样，米尔顿 卡普兰，2020年3月
@@ -25,7 +26,7 @@
 
 ## 理工
 
-- :+1: 服务器究竟为谁服务？Richard Stallman，2020年7月
+- 服务器究竟为谁服务？Richard Stallman，2020年7月
 - Lisp: Good News, Bad News, How to Win Big，Richard P. Gabriel，2020年6月
 - :+1: 编译器设计，Keith Cooper，Linda Torczon，2020年3月
 
