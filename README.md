@@ -4,6 +4,7 @@
 
 ## 索引
 
+- [语丝](./yusi.md)
 - [Reading List](#reading-list)
   - [索引](#索引)
   - [人文社科艺术](#人文社科艺术)
