@@ -14,27 +14,27 @@
 
 ## 人文社科艺术
 
-- 琼美卡随想录，木心，2021年11月
-- 更多的人死于心碎，Saul Bellow，2021年10月
-- 猴子·罗汉池，袁哲生，2021年8月
-- :+1: 夜晚的潜水艇，陈春成，2021年5月
-- :+1: 幸福婚姻与性，Bertrand Russell，2021年1月
-- 我的世界观，Albert Einstein，2020年9月
-- 我是猫，夏目漱石，2020年8月
-- 这个世界会好吗—梁漱溟晚年口述，艾恺，2020年7月
-- 生命因你而火热，彭磊，庞宽，2020年4月
-- :+1: 北海怪兽，彭磊，2020年4月
-- :+1: 像春天一样，米尔顿 卡普兰，2020年3月
-- 自由的老虎，沈诞琦，2020年2月
-- 哲学问题，Bertrand Russell，2019年11月
-- 论人类不平等的起源和基础，Jean-Jacques Rousseau，2019年9月
-- :+1::+1: 幸福之路，Bertrand Russell，2019年6月
+- :+1: 琼美卡随想录，木心
+- 更多的人死于心碎，Saul Bellow
+- 猴子·罗汉池，袁哲生
+- :+1: 夜晚的潜水艇，陈春成
+- :+1: 幸福婚姻与性，Bertrand Russell
+- 我的世界观，Albert Einstein
+- 我是猫，夏目漱石
+- 这个世界会好吗—梁漱溟晚年口述，艾恺
+- 生命因你而火热，彭磊，庞宽
+- :+1: 北海怪兽，彭磊
+- :+1: 像春天一样，米尔顿 卡普兰
+- 自由的老虎，沈诞琦
+- 哲学问题，Bertrand Russell
+- 论人类不平等的起源和基础，Jean-Jacques Rousseau
+- :+1::+1: 幸福之路，Bertrand Russell
 
 ## 理工
 
-- 服务器究竟为谁服务？Richard Stallman，2020年7月
-- Lisp: Good News, Bad News, How to Win Big，Richard P. Gabriel，2020年6月
-- :+1: 编译器设计，Keith Cooper，Linda Torczon，2020年3月
+- 服务器究竟为谁服务？Richard Stallman
+- Lisp: Good News, Bad News, How to Win Big，Richard P. Gabriel
+- :+1: 编译器设计，Keith Cooper，Linda Torczon
 
 ## 管理
 
