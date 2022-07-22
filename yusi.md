@@ -1,3 +1,7 @@
+> You need to understand your own values, what you value, what you think is proper and correct and moral, and if you know what that is and you can articulate it and live according to that, you will be happy. — Carl Jung
+
+> 可以记忆的，和可以遗忘的，都不止这些。除了真诚的爱，可以写成诗句，其他也不想再说。—蒋勋
+
 > 肉体才是人的神殿，无论里面供奉的是什么，都应该好好地保持它的强韧、美丽和清洁。—村上春树《1Q84》
 
 > 人生总有不顺的时候，不必勉强冲刺，就把它当作老天给的悠长假期，好好享受这个假期。突然一天假期结束，时来运转，人生才真正开始。—《悠长假期》
