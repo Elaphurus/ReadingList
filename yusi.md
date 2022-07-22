@@ -1,3 +1,5 @@
+> 天地有大美而不言，四时有明法而不议，万物有成理而不说。—《庄子·知北游》
+
 > You need to understand your own values, what you value, what you think is proper and correct and moral, and if you know what that is and you can articulate it and live according to that, you will be happy. — Carl Jung
 
 > 可以记忆的，和可以遗忘的，都不止这些。除了真诚的爱，可以写成诗句，其他也不想再说。—蒋勋
