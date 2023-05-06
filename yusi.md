@@ -1,3 +1,5 @@
+> Suffering becomes beautiful when anyone bears great calamities with cheerfulness, not through insensibility but through greatness of mind. — Aristotle
+
 > We are like butterflies who flutter for a day and think it is forever. – Carl Sagan
 
 > 天地有大美而不言，四时有明法而不议，万物有成理而不说。—《庄子·知北游》
