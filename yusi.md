@@ -1,3 +1,5 @@
+> 此心有一泛泛浮名所喜私愿已了 彼岸无双草草逸笔犹叹壮志未酬 —木心
+
 > Suffering becomes beautiful when anyone bears great calamities with cheerfulness, not through insensibility but through greatness of mind. — Aristotle
 
 > We are like butterflies who flutter for a day and think it is forever. – Carl Sagan
