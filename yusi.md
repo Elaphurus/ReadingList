@@ -1,3 +1,9 @@
+> 爱情，亦三种境界耳。少年出乎好奇，青年在与审美，中年归向求知。老之将至，义无反顾。\
+我追索人心的深度，却看到了人心的浅薄。\
+很多人的失落，是违背了自己少年时的立志。自认为成熟、自认为练达、自认为精明，从前多幼稚，总算看透了、想穿了。于是，我们就此变成自己年少时最憎恶的那种人。\
+万头攒动火树银花之处不必找我。如欲相见，我在各种悲喜交集处，能做的只是长途跋涉的归真返璞。\
+—木心
+
 > 此心有一泛泛浮名所喜私愿已了 彼岸无双草草逸笔犹叹壮志未酬 —木心
 
 > Suffering becomes beautiful when anyone bears great calamities with cheerfulness, not through insensibility but through greatness of mind. — Aristotle
